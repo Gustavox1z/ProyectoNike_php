@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+div {
+    padding: 15px 15px 15px 15px;
+    width: 45%;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px rgb(255, 252, 252);
+    background-color: white;
+    transition: background 0.5s ease;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+p {
+    line-height: 1.6;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.texto1{
+    color: black;
+    transition: color 0.3s ease;
+}
+.texto2{
+    color: black;
+    transition: color 0.3s ease;
+}
+.titulo{
+    color: black;
+    text-align: center;
+}
+.primero{
+    background-color: rgb(92, 105, 97);
+    margin-bottom: 3px;
+}
+.imagen-ajustada{
+    width: 450px;
+    height: 450px;
+    padding-left: 70px;
+}
+.imagen-ajustada2{
+    width: 450px;
+    height: 450px;
+    padding-left: 90px;
+}
+.titulo1{
+    color: (black);
+    transition: color 0.5s ease;
+}
+.titulo2{
+    color: (black);
+    transition: color 0.5s ease;
+}
+.ultimo{
+    background-color: rgb(92, 105, 97);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+}
+.derechos{
+    margin-left: 15px;
+}

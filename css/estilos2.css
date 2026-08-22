@@ -1,0 +1,55 @@
+footer {
+  background-color: black;
+  color: white;
+}
+
+#claseb {
+  background-color: #96C2DB;
+}
+
+#titulop {
+  color: black;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: -20px;
+}
+
+#titulopb {
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.link {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+}
+
+.sesiones {
+  color: black;
+  text-decoration: none;
+}
+
+.simple-linear {
+  background: linear-gradient(#d4d8dd, #c0c8ca, #aab7b7, #2e4156, #1a2d42);
+  background-attachment: fixed;
+}
+
+.simple-linear1 {
+  background: linear-gradient(#fff2df, #ffe0b2, #d3a376, #8c6e63, #3e2522);
+}
+
+.simple-linear2 {
+  background: linear-gradient(#d4d8dd, #c0c8ca, #aab7b7, #2e4156, #1a2d42);
+  background-attachment: fixed;
+}
+.fondo{
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 3px;
+  background-color: #8c6e63;
+}

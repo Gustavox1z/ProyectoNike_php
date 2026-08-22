@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+html, body {
+    height: 100%;
+}
+header{
+    background: #122c4f;
+    padding: 20px;
+    color: white;
+    margin-top: -10px;
+}
+.centro, .izquierda{
+    width: 70%;
+    background: #5b88b2;
+    float: left;
+    overflow: auto;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+aside{
+    float: right;
+    background: black;
+    margin-top: 25px;
+    padding-top: 160px;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+footer{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    height: 30px;
+    clear: both;
+    background: #122c4f;
+    color: white;
+}
+figure{
+    display: table; margin: 0 auto;
+}
+.navegador{
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+    justify-content: space-around;
+    background-color: #f4e2c4;
+}
+.navegador ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 20px;
+}
+.navegador ul li a:hover{
+    color: #ea1538;
+    transition: .3s;
+}
+.primero{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+.logo{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: -8px;
+}
+hgroup{
+    display: flex;
+}
+.novedad{
+    width: 250px;
+    margin-left: 30px;
+}
+.nov{
+    margin-bottom: 20px;
+    margin-left: 350px;
+}
+.anuncio{
+    width: 305px;
+    height: 525px;
+    padding-right: 25px;
+}
+.navegador2{
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+    justify-content: space-around;
+    background-color: #122c4f;
+}
+.navegador2 ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 20px;
+}
+.navegador2 ul li a:hover{
+    color: #ea1538;
+    transition: .3s;
+}
+h4{
+    margin-left: 30px;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+}

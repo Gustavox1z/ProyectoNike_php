@@ -1,0 +1,26 @@
+*{margin:0; padding:0;}         
+         footer{background-color: black;
+          color: white;
+
+
+         }
+          .clase1{
+               
+          }
+          
+          #claseb{
+              background-color: rgb(33, 183, 224);
+
+          }
+          #tituloP{
+              color: white;
+              font-weight: bold;
+               margin-top: 25px;
+               margin-left: -20px;
+
+          }
+          #tituloPB{
+              color: white;
+              font-weight: bold;
+              font-size: 1em;
+          }
